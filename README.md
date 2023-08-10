@@ -9,3 +9,6 @@ Comandos usados durante el curso
 |`mr`|Elimina archivos o directorios|`mr`nombre del archivo.txt|
 |`chmod`|Cambia los permisos de un archivo|`chmo`'+x script.sh|
 |`chown`|Cambia el propietario de un archivo o directorio|`chown`usuario archivo.txt|
+|`ps`|Muestra los procesos en ejecucion|`ps aux`|
+|`top`|Muestra la lista de los procesos en tiempo real|`top`|
+|`kill`|Termina un proceso|`kill PID`|
