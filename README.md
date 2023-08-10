@@ -7,4 +7,5 @@ Comandos usados durante el curso
 |'pwd'|Muestra la ruta del directorio actual|'pwd' + el nombre de la carpeta te dira donde esta| 
 |'mkdir'|Crea un nuevo directorio|'mkdir' nuevo directorio|
 |'mr'|Elimina archivos o directorios|'mr'nombre del archivo.txt|
-|'chmod'|Cambia los permisos de un archivo|'chmod'+x script.sh|
+|"chmod"|Cambia los permisos de un archivo|'chmod'+x script.sh|
+|'chown|
