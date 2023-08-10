@@ -1,6 +1,6 @@
 # Bitacora-SO
 Comandos usados durante el curso
-|#|Comando|Descripcion|Ejemplo de uso|
+|Comando|Descripcion|Ejemplo de uso|
 |--|--|--|
 1.|`ls`|Lista los archivos|`ls` va a mostrar la lista de los archivos|
 2.|`cd`|Cambia el directorio actual|`cd`cd/ruta/directorio|
