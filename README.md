@@ -41,3 +41,6 @@ Comandos usados durante el curso
 |`Isof`|Lista de archivos abiertos por procesos|`Isof` -i :puerto|
 |`hostname`|Muestra o cambia el nombre del host|`hostname`|
 |`nano prueba.text`|Te permite crear y editar el archivo de texto "prueba.txt|`nano prueba.txt`|
+|`clear`|Limpia la pantalla|`clear`|
+|`man ls`|Muestra los parametros de un comando| `man ls`|
+|`su`|Activa el superusuario|sudo `su`|
