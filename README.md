@@ -35,7 +35,7 @@ Comandos usados durante el curso
 |`usermod`|Modifica la configuracion del usuario|sudo `usermod` -aG grupo usuario| 
 |`passwd`|Cambia la contraseña del usuario|`passwd` usuario|
 |`chroot`|Cambia el directorio de raiz para un proceso|sudo `chroot` /nuevo/directorio /bin/bash
-|`du`|Muestra el uso de espacio por directorio| `du` -sh directorio|
+|`du`|Muestra el uso de espacio por directorio|`du` -sh directorio|
 |`scp`|Copia archivos a traves de SSH|`scp` archivo.txt usuario@servidor:~/|
 |`cal`|Muestra el calendario|`cal`|
 |`Isof`|Lista de archivos abiertos por procesos|`Isof` -i :puerto|
