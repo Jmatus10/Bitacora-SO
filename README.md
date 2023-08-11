@@ -43,4 +43,4 @@ Comandos usados durante el curso
 |`nano prueba.text`|Te permite crear y editar el archivo de texto "prueba.txt|`nano prueba.txt`|
 |`clear`|Limpia la pantalla|`clear`|
 |`man ls`|Muestra los parametros de un comando| `man ls`|
-|`su`|Activa el superusuario|sudo `su`|
+|`su`|Activa el super-usuario|sudo `su`|
