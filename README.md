@@ -18,3 +18,4 @@ Comandos usados durante el curso
 |`ifconfig`|Muestra la configuracion de red|`ifconfig`|
 |`ssh`|Inicia una sesion SSH en un servidor remoto|`ssh` usuario@servidor|
 |`cp`|Copia de archivos o directorios| `cp` archivo.txt destino/|
+|`mv`|Mueve o renombra archivos o directorios|`mv`archivo.txt nuevo_nombre|
