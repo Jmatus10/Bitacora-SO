@@ -19,7 +19,7 @@ Comandos usados durante el curso
 |`ssh`|Inicia una sesion SSH en un servidor remoto|`ssh` usuario@servidor|
 |`cp`|Copia de archivos o directorios| `cp` archivo.txt destino/|
 |`mv`|Mueve o renombra archivos o directorios|`mv` archivo.txt nuevo_nombre|
-|`cat`|Muestra el contenido de un archivo|`cat` archivo.txt|
+|`cat`|Muestra el contenido de un archivo sin abrirlo|`cat` archivo.txt|
 |`tar`|Comprime y descomplime archivos en la terminal|`tar` -cvf archivo.tar directorio|
 |`zip`|Crea archivos ZIP|`zip` archivo.zip archivo.txt|
 |`unzip`|Descomprime archivos ZIP|`unzip` archivo.txt|
