@@ -36,3 +36,7 @@ Comandos usados durante el curso
 |`passwd`|Cambia la contraseña del usuario|`passwd` usuario|
 |`chroot`|Cambia el directorio de raiz para un proceso|sudo `chroot` /nuevo/directorio /bin/bash
 |`du`|Muestra el uso de espacio por directorio| `du` -sh directorio|
+|`scp`|Copia archivos a traves de SSH|`scp` archivo.txt usuario@servidor:~/|
+|`cal`|Muestra el calendario|`cal`|
+|`Isof`|Lista de archivos abiertos por procesos|`Isof` -i :puerto|
+|`hostname`|Muestra o cambia el nombre del host|`hostname`|
