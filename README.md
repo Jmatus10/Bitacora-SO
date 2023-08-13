@@ -52,3 +52,4 @@ Comandos usados durante el curso
 |`sudo systemctl start httpd`|Se utiliza en Manjaro para iniciar el servicio del servidor web Apache (HTTPD)|`sudo systemctl start httpd`|
 | `uname -a`|Se utiliza para obtener información detallada sobre el sistema operativo y el hardware en el que estás trabajando|`uname -a`|
 |`git clone`|Se usa para clonar un repositorio de Git desde una ubicación remota a tu sistema local|`git clone` https://github.com/mortasoft/linux-scripts|
+|`ls /bin`|Se usa para ver los archivos ejecutables esenciales en el directorio /bin, que son vitales para el funcionamiento del sistema operativo y para ejecutar comandos básicos en Manjaro y otras distribuciones Linux y Unix|`ls /bin`|
