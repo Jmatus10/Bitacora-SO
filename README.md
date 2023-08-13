@@ -44,5 +44,7 @@ Comandos usados durante el curso
 |`clear`|Limpia la pantalla|`clear`|
 |`man ls`|Muestra los parametros de un comando| `man ls`|
 |`su`|Activa el super-usuario|sudo `su`|
-|`sudo pacman -Sy`|Se usa para actualizar la lista de los paquetes disponiblesen los repositorios y sincronizar la informacion|`sudo pacman -Sy`|
+|`sudo pacman -Sy`|Se usa para actualizar la lista de los paquetes disponibles en los repositorios y sincronizar la informacion|`sudo pacman -Sy`|
 |`sudo pacman -S unrar zip unzip gzip bzip2`|Se usa para instalar varios paquetes relacionados con la manipulacion y compresion de archivos|`sudo pacman -S unrar zip unzip gzip bzip2`|
+|`sudo pacman -S yay`|Se utiliza para instalar el programa "yay"|`sudo pacman -S yay`|
+|`sudo yay -S --needed base-devel`|este comando utiliza "yay" para instalar el grupo de paquetes "base-devel" desde el AUR. El grupo "base-devel" es necesario para compilar y construir paquetes desde el AUR, ya que contiene herramientas y bibliotecas esenciales para el desarrollo|`sudo yay -S --needed base-devel`|
