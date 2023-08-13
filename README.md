@@ -53,3 +53,7 @@ Comandos usados durante el curso
 | `uname -a`|Se utiliza para obtener información detallada sobre el sistema operativo y el hardware en el que estás trabajando|`uname -a`|
 |`git clone`|Se usa para clonar un repositorio de Git desde una ubicación remota a tu sistema local|`git clone` https://github.com/mortasoft/linux-scripts|
 |`ls /bin`|Se usa para ver los archivos ejecutables esenciales en el directorio /bin, que son vitales para el funcionamiento del sistema operativo y para ejecutar comandos básicos en Manjaro y otras distribuciones Linux y Unix|`ls /bin`|
+|'exit'|Salir del root |'exit' si ya no se necesita el root|
+|'more'|Muestra el resultado de la ejecución de un comando en la terminal de a una página a la vez|ps-ef'more'La pantalla se llenará
+con una lista de datos, pero se detendrá al final de la página con el mensaje "more"|
+|'whoami'|Saber el usuario |'whoami' en el terminal te dirá en el usuario que estás|
