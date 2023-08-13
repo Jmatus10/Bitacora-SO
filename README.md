@@ -5,7 +5,7 @@ Comandos usados durante el curso
 |`ls`|Lista los archivos|`ls` va a mostrar la lista de los archivos|
 |`cd`|Cambia el directorio actual|`cd` cd/ruta/directorio|
 |`pwd`|Muestra la ruta del directorio actual|`pwd` + el nombre de la carpeta te dira donde esta| 
-|`mkdir`|Crea un nuevo directorio|`mkdir` nuevo directorio|
+|`mkdir`|Crea un nuevo directorio o Carpeta|`mkdir` nuevo directorio va a crear el directorio o carpeta|
 |`rm`|Elimina archivos o directorios|`rm` nombre del archivo.txt|
 |`chmod`|Cambia los permisos de un archivo|`chmod` +x script.sh|
 |`chown`|Cambia el propietario de un archivo o directorio|`chown` usuario archivo.txt|
