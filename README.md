@@ -56,3 +56,4 @@ Comandos usados durante el curso
 |`exit`|Salir del root |`exit` si ya no se necesita el root|
 |`more`|Muestra el resultado de la ejecución de un comando en la terminal de a una página a la vez|ps-ef`more`La pantalla se llenara con una lista de datos, pero se detendrá al final de la página con el mensaje "more"|
 |`whoami`|Saber el usuario |`whoami` en la terminal te dirá en el usuario que estás|
+|`su root`| Iniciar sesión en root|`su root` te inicia la sesión para tener todos los permisos|
